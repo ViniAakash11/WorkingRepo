@@ -6,7 +6,7 @@ public class main {
 		// TODO Auto-generated method stub
 TestClass tst=new TestClass();
 tst.add();
-tst.sub();
+tst.sub2();
 	}
 
 }
