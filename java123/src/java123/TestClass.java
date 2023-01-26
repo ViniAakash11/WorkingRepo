@@ -13,7 +13,7 @@ public class TestClass {
 		System.out.println("Subtracting");
 	}
 	
-	public void sub1()
+	public void sub2()
 	{
 		System.out.println("Subtracting");
 	}
