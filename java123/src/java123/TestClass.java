@@ -8,10 +8,6 @@ public class TestClass {
 	}
 	
 
-	public void sub()
-	{
-		System.out.println("Subtracting");
-	}
 	
 	public void sub2()
 	{
